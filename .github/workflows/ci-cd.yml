@@ -106,7 +106,7 @@ jobs:
             - name: Build and push Docker image
               # Also check if a version was determined
               if: steps.semantic_dry_run.outputs.version && github.event_name == 'push' && github.ref == 'refs/heads/main'
-              uses: docker/build-push-action@v5
+              uses: docker/build-push-action@v6
               with:
                   context: .
                   push: true
