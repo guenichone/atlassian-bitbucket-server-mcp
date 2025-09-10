@@ -42,7 +42,7 @@
 		"@types/jest": "^29.5.14",
 		"@types/module-alias": "^2.0.4",
 		"@types/nock": "^11.1.0",
-		"@types/node": "^20.17.30",
+		"@types/node": "^24.3.1",
 		"@types/turndown": "^5.0.5",
 		"depcheck": "^1.4.7",
 		"eslint": "^9.35.0",
