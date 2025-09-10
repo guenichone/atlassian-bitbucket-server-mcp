@@ -54,7 +54,7 @@
 	},
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "^1.17.5",
-		"@openapitools/openapi-generator-cli": "^2.18.4",
+		"@openapitools/openapi-generator-cli": "^2.23.1",
 		"commander": "^14.0.0",
 		"dotenv": "^16.4.7",
 		"express": "^5.1.0",
